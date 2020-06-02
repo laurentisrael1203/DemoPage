@@ -84,7 +84,8 @@
                 <div class="carousel-caption d-md-block">
                     <p class="frst-hrd">Everyone is Photogenic</p>
                     <h5>Today’s SPECIAL MOMENTS.</h5>
-                    <p>Creating a timeless look, coupled with a flawless moment</p>
+			<p>Test Maven</p>
+                    <!-- <p>Creating a timeless look, coupled with a flawless moment</p> -->
 
                 </div>
 
