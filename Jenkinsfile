@@ -28,7 +28,8 @@ node{
    }
       stage ('Start Tomcat Server') {
          sleep(time:5,unit:"SECONDS") 
-         bat "${tomcatBin}\\startup.bat"
+         bat "cd ${tomcatBin}"
+         bat "startup.bat"
          sleep(time:100,unit:"SECONDS")
    }
 }
